@@ -1,0 +1,14 @@
+[project]
+name = "extended-euclidean-algorithm-py"
+version = "0.1.0"
+description = "Computes the extended Euclidean algorithm for two integers, yielding the GCD and Bézout coefficients."
+requires-python = ">=3.10"
+dependencies = []
+readme = "README.md"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
