@@ -1,6 +1,6 @@
 [project]
 name = "extended-euclidean-algorithm-py"
-version = "0.1.0"
+version = "0.1.1"
 description = "Computes the extended Euclidean algorithm for two integers, yielding the GCD and Bézout coefficients."
 requires-python = ">=3.10"
 dependencies = []
